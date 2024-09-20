@@ -48,11 +48,10 @@
   gap:1.5rem;
 }
 
-.options li{
-  align-items: center;
-  text-align: center;
+/* .options li{
+  
   align-self: center;
-}
+} */
 .options .button{
   padding: 4px;
   border: 1.3px #49c059 solid;
